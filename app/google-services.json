@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "76756059497",
+    "firebase_url": "https://grocery-management-5eed8.firebaseio.com",
+    "project_id": "grocery-management-5eed8",
+    "storage_bucket": "grocery-management-5eed8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76756059497:android:c224701c67ea0910e0e9f8",
+        "android_client_info": {
+          "package_name": "com.dsc.grocerymanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "76756059497-hbhj8vd6270itdn9l9obc2einjipgqog.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-2XZAndYKPS8uN3mDHUTWxp1F8_-aeo4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "76756059497-hbhj8vd6270itdn9l9obc2einjipgqog.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
