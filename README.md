@@ -24,7 +24,7 @@ Purchasing groceries from home made easy
 
 1. Open Command Prompt
 2. Navigate to your workspace
-3. Paste the following URL :  git clone https://github.com/ayustark/grocery_management.git
+3. Paste the following URL :  git clone https://github.com/ayustark/groc_mart.git
 4. Import the project in your Android Studio and begin coding!
 
 
@@ -52,7 +52,7 @@ Purchasing groceries from home made easy
 
 ## Tech Support
 
-Feel free to clear your queries or to add you suggestions under:  https://github.com/ayustark/grocery_management/issues
+Feel free to clear your queries or to add you suggestions under:  https://github.com/ayustark/groc_mart/issues
 
 ## Licensing
 
